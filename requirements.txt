@@ -1,7 +1,6 @@
 pyrogram
 python-dotenv
 yt-dlp
-youtube-search-python
+youtube-search-python==1.6.6
 fastapi
 uvicorn
-TgCrypto
