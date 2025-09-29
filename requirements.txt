@@ -1,5 +1,4 @@
 pyrogram
-tgcrypto
 python-dotenv
 yt-dlp
 youtube-search-python
