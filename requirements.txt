@@ -1,0 +1,7 @@
+pyrogram
+python-dotenv
+yt-dlp
+youtubesearchpython
+FFmpeg
+# yt-dlp ke liye FFmpeg zaroori hai. Deploy karte samay,
+# FFmpeg ko environment mein install karna padega (e.g., Dockerfile ya build command se).
